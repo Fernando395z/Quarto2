@@ -1070,6 +1070,9 @@ graf2 + geom_point(aes(colour=variedad),size=3) +
 ## Bibliografía específica
 
 
+
+
+*  Hola
 *  Baumer, B. S., Kaplan, D.T. and Horton, N. J.
   \emph{``Modern Data Science with R''}.3rd Edition CRC Press.
    <https://mdsr-book.github.io/mdsr3e/>
